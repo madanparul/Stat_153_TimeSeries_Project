@@ -1,0 +1,2 @@
+Stock Price dataset:
+Mediocre Social Network Apps Incorporated has struggled for a few years as people's preferences change. This is evidenced by its stock price (fictional company, but real asset price data!). They are hoping that things are turning around, but also want to be realistic with themselves as to what the fourth quarter will hold this year. I've provided you with their stock price from the beginning of 2015 through the end of September 2019. Your task is to forecast their stock price for the first ten trading days of October 2019. 
